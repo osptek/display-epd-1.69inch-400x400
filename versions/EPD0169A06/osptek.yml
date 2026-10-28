@@ -1,0 +1,10 @@
+id: EPD0169A06
+category: displays
+size: "1.69"
+panel: epd
+resolution: 400x400
+interface: [spi]
+driver: IST7601CA0
+touch: null
+outline: 52.8 x 49.6 x 0.85 mm
+active_area: 43 x 43 mm
